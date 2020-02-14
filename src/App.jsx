@@ -14,7 +14,7 @@ function App() {
             <Route path="/home" exact component={Home} />
             <Route path="/friendList" exact component={FriendList} />
             <Route path="/friendReques" exact component={FriendReques} />
-            
+
 
 
 
