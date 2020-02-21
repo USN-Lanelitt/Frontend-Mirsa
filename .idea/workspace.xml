@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dc02a0e-86af-4173-92bb-4fb466a99fd9" name="Default Changelist" comment="Ikke ferdig jobber med venneknappen der vennene skal komme opp etterhverandre, det andre skal funke">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/data.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/friend-all.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/friend-card-mobile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/friend-card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/friend-list.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature/friend/friend-reques.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaffold.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feature/friend/data.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/feature/friend/data.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feature/friend/friend-list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/feature/friend/friend-list.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,8 +88,21 @@
       <updated>1580464344306</updated>
       <workItem from="1580464345759" duration="2868000" />
       <workItem from="1580562237443" duration="72674000" />
-      <workItem from="1580865054205" duration="15242000" />
+      <workItem from="1580865054205" duration="20415000" />
     </task>
+    <task id="LOCAL−00001" summary="Ikke ferdig jobber med venneknappen der vennene skal komme opp etterhverandre, det andre skal funke">
+      <created>1581670688329</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1581670688330</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Ikke ferdig jobber med venneknappen der vennene skal komme opp etterhverandre, det andre skal funke">
+      <created>1581670841808</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1581670841808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,33 +125,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="740" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580650816642" />
-    <state x="297" y="52" key="CommitChangelistDialog2" timestamp="1581670688066">
+    <state x="297" y="52" key="CommitChangelistDialog2" timestamp="1581671087966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581670688066" />
+    <state x="297" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581671087966" />
     <state x="427" y="432" key="GitCloneDialog" timestamp="1580467515797">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="427" y="432" key="GitCloneDialog/0.23.1440.877@0.23.1440.877" timestamp="1580467515797" />
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom" timestamp="1581670634668">
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom" timestamp="1582142579003">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581670634668" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582142579003" />
     <state width="1419" height="195" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
-    <state width="1419" height="207" key="GridCell.Tab.0.center" timestamp="1581670634668">
+    <state width="1419" height="207" key="GridCell.Tab.0.center" timestamp="1582142579002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581670634668" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582142579002" />
     <state width="1419" height="195" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
-    <state width="1419" height="207" key="GridCell.Tab.0.left" timestamp="1581670634667">
+    <state width="1419" height="207" key="GridCell.Tab.0.left" timestamp="1582142579001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581670634667" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582142579001" />
     <state width="1419" height="195" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580562320300" />
-    <state width="1419" height="207" key="GridCell.Tab.0.right" timestamp="1581670634668">
+    <state width="1419" height="207" key="GridCell.Tab.0.right" timestamp="1582142579002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581670634668" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582142579002" />
     <state width="1419" height="195" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
     <state x="734" y="168" key="RollbackChangesDialog" timestamp="1580852856648">
       <screen x="0" y="0" width="1440" height="900" />
@@ -160,10 +161,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="404" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580572277224" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1581670807345">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1581670974158">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581670807345" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581670974158" />
     <state x="757" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580595831789">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -172,9 +173,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="750" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1580573988255" />
-    <state x="645" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581670776316">
+    <state x="645" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581671079104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="645" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581670776316" />
+    <state x="645" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581671079104" />
   </component>
 </project>

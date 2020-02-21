@@ -9,6 +9,7 @@ import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import FriendCard from "./friend-card";
 
 const useStyles = makeStyles(theme => ({
+   //breakpoint
 
 }));
 const FriendList = () => {

@@ -1,5 +1,5 @@
-const data = () => {
-    return [
+const data  =
+    [
         {
             id: 1,
             firstname: "Mirsa",
@@ -53,5 +53,4 @@ const data = () => {
         }
 
     ];
-};
 export default data;
