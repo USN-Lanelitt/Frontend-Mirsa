@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dc02a0e-86af-4173-92bb-4fb466a99fd9" name="Default Changelist" comment="" />
+    <list default="true" id="7dc02a0e-86af-4173-92bb-4fb466a99fd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +89,7 @@
       <workItem from="1580865054205" duration="20415000" />
       <workItem from="1582281162190" duration="159000" />
       <workItem from="1583482163089" duration="10692000" />
-      <workItem from="1583499286935" duration="140000" />
+      <workItem from="1583499286935" duration="453000" />
     </task>
     <task id="LOCAL−00001" summary="Ikke ferdig jobber med venneknappen der vennene skal komme opp etterhverandre, det andre skal funke">
       <created>1581670688329</created>
