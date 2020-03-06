@@ -17,12 +17,16 @@ const useStyles = makeStyles(theme => ({
         padding: theme.spacing(3),
     },
     photo: {
-        width: theme.spacing(9),
-        height: theme.spacing(9),
+        width: theme.spacing(7),
+        height: theme.spacing(7),
 
     },
     text: {
         padding: theme.spacing(2),
+
+    },
+    mid_name: {
+        padding: theme.spacing(0.5),
 
     }
 
@@ -39,11 +43,11 @@ const FriendCard = ({firstname, middlename, lastname, imageUrl}) => {
                             <CardMedia>
                                 <Avatar className={classes.photo} alt="Remy Sharp" src={imageUrl}/>
                             </CardMedia>
-                            <Grid xs={9} className={classes.text}>
+                            <Grid className={classes.text}>
                                 <Typography gutterBottom variant="h6" component="h2" display={"inline"}>
                                     {firstname}
                                 </Typography>
-                                <Typography gutterBottom variant="h6" component="h2" display={"inline"}>
+                                <Typography className = {classes.mid_name} gutterBottom variant="h6" component="h2" display={"inline"}>
                                     {middlename}
                                 </Typography>
                                 <Typography gutterBottom variant="h6" component="h2" display={"inline"}>

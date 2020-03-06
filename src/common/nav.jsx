@@ -179,6 +179,7 @@ export default function PrimarySearchAppBar() {
                     </div>
 
 
+
                     <FriendReques/>
 
 
@@ -200,7 +201,6 @@ export default function PrimarySearchAppBar() {
                                 <NotificationsIcon />
                             </Badge>
                         </IconButton>
-
 
 
 

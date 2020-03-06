@@ -20,12 +20,12 @@ const data  =
             id: 3,
             firstname: "Nicole",
             middlename: "",
-            lastname: "Bendu",
+            lastname: "Bendu ",
             imageUrl: "https://source.unsplash.com/random"
         },
         {
             id: 4,
-            firstname: "Finn ",
+            firstname: "Finn",
             middlename: "Svolsbru",
             lastname: "Gundersen",
             imageUrl: "https://source.unsplash.com/random"
@@ -49,6 +49,20 @@ const data  =
             firstname: "Mickey",
             middlename: "",
             lastname: "Fluffy",
+            imageUrl: "https://source.unsplash.com/random"
+        },
+        {
+            id: 8,
+            firstname: "Robert",
+            middlename: "",
+            lastname: "Houffy",
+            imageUrl: "https://source.unsplash.com/random"
+        },
+        {
+            id: 9,
+            firstname: "Sarah",
+            middlename: "",
+            lastname: "Houffy",
             imageUrl: "https://source.unsplash.com/random"
         }
 
