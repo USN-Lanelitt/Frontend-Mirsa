@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dc02a0e-86af-4173-92bb-4fb466a99fd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="7dc02a0e-86af-4173-92bb-4fb466a99fd9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
       <workItem from="1580562237443" duration="72674000" />
       <workItem from="1580865054205" duration="20415000" />
       <workItem from="1582281162190" duration="159000" />
-      <workItem from="1583482163089" duration="10584000" />
+      <workItem from="1583482163089" duration="10692000" />
     </task>
     <task id="LOCAL−00001" summary="Ikke ferdig jobber med venneknappen der vennene skal komme opp etterhverandre, det andre skal funke">
       <created>1581670688329</created>
@@ -140,25 +138,25 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="427" y="432" key="GitCloneDialog/0.23.1440.877@0.23.1440.877" timestamp="1580467515797" />
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom" timestamp="1582142579003">
+    <state width="1419" height="40" key="GridCell.Tab.0.bottom" timestamp="1583499145256">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582142579003" />
+    <state width="1419" height="40" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583499145256" />
     <state width="1419" height="195" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
-    <state width="1419" height="207" key="GridCell.Tab.0.center" timestamp="1582142579002">
+    <state width="1419" height="40" key="GridCell.Tab.0.center" timestamp="1583499145254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582142579002" />
+    <state width="1419" height="40" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583499145254" />
     <state width="1419" height="195" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
-    <state width="1419" height="207" key="GridCell.Tab.0.left" timestamp="1582142579001">
+    <state width="1419" height="40" key="GridCell.Tab.0.left" timestamp="1583499145253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582142579001" />
+    <state width="1419" height="40" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583499145253" />
     <state width="1419" height="195" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580562320300" />
-    <state width="1419" height="207" key="GridCell.Tab.0.right" timestamp="1582142579002">
+    <state width="1419" height="40" key="GridCell.Tab.0.right" timestamp="1583499145255">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582142579002" />
+    <state width="1419" height="40" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583499145255" />
     <state width="1419" height="195" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580562320301" />
     <state x="734" y="168" key="RollbackChangesDialog" timestamp="1580852856648">
       <screen x="0" y="0" width="1440" height="900" />
