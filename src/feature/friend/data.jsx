@@ -60,9 +60,9 @@ const data  =
         },
         {
             id: 9,
-            firstname: "Sarah",
+            firstname: "test1",
             middlename: "",
-            lastname: "Houffy",
+            lastname: "test2",
             imageUrl: "https://source.unsplash.com/random"
         }
 
