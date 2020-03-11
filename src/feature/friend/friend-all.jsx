@@ -6,7 +6,6 @@ import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import {Link} from "react-router-dom";
 import {makeStyles} from "@material-ui/core/styles";
-import{useFirestore} from "react-redux-firebase";
 
 const useStyles = makeStyles(theme => ({
 
@@ -18,7 +17,6 @@ heroContent: {
 }));
 
 const FriendAll = () => {
-    /*
         let [setFirstnameVar] = useState('');
         let [setMidlenameVar] = useState('');
         let [setLastnameVar] = useState('');
@@ -42,12 +40,12 @@ const FriendAll = () => {
                     alert(Result);
                 })
         }
-    /*
+
         function setFirstname(e) {
             setFirstnameVar = e.target.value;
         }
         function setMidlename(e) {
-            setMidnameVar = e.target.value;
+            setMidlenameVar = e.target.value;
         }
         function setLastname(e) {
             setLastnameVar = e.target.value;
@@ -59,7 +57,6 @@ const FriendAll = () => {
             etternavn:'',
         });
 
-     */
     const classes = useStyles();
         return (
             <React.Fragment>
