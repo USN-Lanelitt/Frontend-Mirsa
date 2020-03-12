@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import {makeStyles} from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
@@ -31,6 +31,15 @@ const useStyles = makeStyles(theme => ({
     }
 
 }));
+/*
+const [values, setValues] = useState({
+    fornavn: '',
+    midnavn:'',
+    etternavn:'',
+});
+
+
+ */
 
 const FriendCard = ({firstname, middlename, lastname, imageUrl}) => {
     const classes = useStyles();

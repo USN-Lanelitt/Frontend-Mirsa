@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
 
@@ -13,6 +13,15 @@ const useStyles = makeStyles(theme => ({
 
 
 }));
+
+/*
+const [values, setValues] = useState({
+    fornavn: '',
+    midnavn:'',
+    etternavn:'',
+});
+*/
+
 const FriendList = () => {
         return (
             <Grid container spacing={2} alignItems={"left"}>

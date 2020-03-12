@@ -20,6 +20,7 @@ const FriendAll = () => {
         let [setFirstnameVar] = useState('');
         let [setMidlenameVar] = useState('');
         let [setLastnameVar] = useState('');
+        let [setProfilePicVar] = useState('');
 
         function FriendsAll() {
             fetch('http://127.0.0.1:8000/api/friendAll', {
@@ -32,7 +33,7 @@ const FriendAll = () => {
                     firstname: setFirstname,
                     midname: setMidlename,
                     lastname: setLastname,
-
+                    imageUrl: setProfilePic,
                 })
             })
                 .then((Response) => Response.on())
@@ -50,11 +51,16 @@ const FriendAll = () => {
         function setLastname(e) {
             setLastnameVar = e.target.value;
         }
+        function setProfilePic (e) {
+            setProfilePicVar = e.target.value;
+
+        }
 
         const [values, setValues] = useState({
-            fornavn: '',
-            midnavn:'',
-            etternavn:'',
+            firstname: '',
+            middlename:'',
+            lastname:'',
+            imageUrl: "https://source.unsplash.com/random",
         });
 
     const classes = useStyles();
